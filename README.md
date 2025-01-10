@@ -14,7 +14,7 @@ A API suporta:
 A API está publicada no Google Cloud e pode ser acessada por meio da URL:
 
 ```
-https://backend-instabytes-668468799247.southamerica-east1.run.app/
+[https://backend-instabytes-668468799247.southamerica-east1.run.app/posts](https://backend-instabytes-668468799247.southamerica-east1.run.app/posts)
 ```
 
 ---
